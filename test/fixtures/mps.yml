@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+one:
+  id: 1
+  ed_id: 1
+  name: MyString
+  constituency: MyString
+  email: MyString
+two:
+  id: 2
+  ed_id: 1
+  name: MyString
+  constituency: MyString
+  email: MyString

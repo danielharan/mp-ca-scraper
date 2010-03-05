@@ -1,0 +1,55 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/test
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+fc4d849e28f089141debb18b22058277
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+
+mocks
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/db/migrate
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+001_create_mps.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+4d8bc772383a0c0c78c16a379498c788
+2007-03-10T18:56:13.498514Z
+6
+chebuctonian
+
+002_create_postal_codes.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+8b715451c60cc62564d4bb849d6ae487
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+

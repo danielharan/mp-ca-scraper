@@ -1,0 +1,32 @@
+This project does two things:
+
+-scrape Mp information
+-offer a REST interface for people to download the list of MPs (XML or CSV), or get individual MP details (XML)
+
+Bulk data is available at the following URIs:
+http://lokobo.com:3000/mps
+http://lokobo.com:3000/mps.xml
+http://lokobo.com:3000/mps.csv
+
+Individual MP data can be retrieved by electoral district ID (EDID), as such:
+http://lokobo.com:3000/mps/59012
+http://lokobo.com:3000/mps/59012.xml
+
+All this information is in the public domain. It is provided as a public service.
+
+*** Technical Information
+
+The software uses ruby, rails and hpricot. See the RAILS-README for more information. You'll want to set up the database to run this. 'rake db:migrate' will create the appropriate table.
+
+Scraping code can be found in app/models/mp.rb
+
+To get data in your own database, I recommend using script/console. Issue the following command:
+
+Mp.get_list
+(Mp.find :all).each do |mp|
+  mp.scrape
+  sleep 15
+end
+
+Please let me know of any issues or concerns by email or Jabber - you can reach me through chebuctonian AT gmail
+

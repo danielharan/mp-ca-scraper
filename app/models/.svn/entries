@@ -1,0 +1,52 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/app/models
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-04-15T19:29:40.139534Z
+24
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+mp.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+977839020d7449831c929c607bc1675f
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+postal_code.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+35f9dbf10494ae4309e123f21fa0163e
+2007-04-15T19:29:40.139534Z
+24
+chebuctonian
+

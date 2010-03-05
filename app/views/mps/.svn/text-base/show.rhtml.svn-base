@@ -1,0 +1,26 @@
+<h1><%=h @mp.name %></h1>
+
+<p><%= @mp.party || 'Mp'%> for <%= @mp.constituency_name %></p>
+
+<h2>Parliamentary office:</h2>
+
+<p><address>House of Commons<br/>
+Ottawa, Ontario<br/>
+K1A 0A6</address><br/>
+
+Phone: <%= @mp.parliamentary_phone %><br>
+Fax: <%= @mp.parliamentary_fax %><br/>
+Email: <%= mail_to @mp.email %><br/>
+Website: <%= @mp.website ? link_to(@mp.website, @mp.website) : 'none listed' %><br/>
+Preferred Language: <%= @mp.preferred_language %>
+</p>
+
+<h2>Constituency Offices</h2>
+
+<p><address><%= @mp.constituency_address %><br/><%= @mp.constituency_city %><br/><%= @mp.constituency_province %>, <%= @mp.constituency_postal_code %></address><br/>
+
+Phone: <%= @mp.constituency_phone %><br>
+Fax: <%= @mp.constituency_fax %>
+</p>
+
+<p><%= link_to 'Back', mps_path %></p>

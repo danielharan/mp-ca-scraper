@@ -1,0 +1,43 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/db
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+schema.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+8323554ac175b31b0a4e43130488defe
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+migrate
+dir
+

@@ -1,0 +1,21 @@
+<table border='1'>
+  <tr>
+    <th>Name</th>
+    <th>Party</th>
+    <th>Constituency</th>
+    <th>Contact</th>
+    <th>Hill office</th>
+  </tr>
+  
+<% for mp in @mps %>
+  <tr>
+    <td><%= link_to mp.name, mp_url(mp.ed_id) %></td>
+    <td><%=h mp.party %></td>
+    <td><%=h mp.constituency_name %></td>
+    <td><%= mp.constituency_address %><br/><%= mp.constituency_city %><br/><%= mp.constituency_province %>, <%= mp.constituency_postal_code %></td>
+    <td>p: <%= mp.parliamentary_phone %><br/>
+        f: <%= mp.parliamentary_fax %></td>
+  </tr>
+<% end %>
+</table>
+

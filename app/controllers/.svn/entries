@@ -1,0 +1,52 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/app/controllers
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+mps_controller.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+d938d45a6d1de87411a4e2f6ccb47d97
+2007-03-24T17:27:48.670981Z
+21
+chebuctonian
+
+application.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+6ab964e26d323fb87fa3d7a0cd76ad33
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+

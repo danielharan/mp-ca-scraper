@@ -1,0 +1,8 @@
+<p><form action="mps;search" method="get">
+  <input type="text" id="postal_code" name="postal_code" size="7" value="<%= params[:postal_code] %>" />
+  <input type="submit" value="Search">
+</form></p>
+
+<p>Results for <%= params[:postal_code] %>:</p>
+
+<%= render :partial => 'list' %>

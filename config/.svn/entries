@@ -1,0 +1,79 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/config
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-24T15:19:02.485151Z
+18
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+routes.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+ae6ab7fe1c75500305f9ad9abd97b7d6
+2007-03-24T15:19:02.485151Z
+18
+chebuctonian
+
+database.yml
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+d357d4cbe99a66d064710367309a0633
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+boot.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+5e5e764225f2ba2e8e1ab7896079e4bd
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+environment.rb
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+2ebe7886f3560d501837a6cd56a26c69
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+environments
+dir
+

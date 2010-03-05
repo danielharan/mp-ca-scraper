@@ -1,0 +1,40 @@
+8
+
+dir
+24
+svn://rubyforge.org/var/svn/mp-ca-scraper/trunk/test/fixtures
+svn://rubyforge.org/var/svn/mp-ca-scraper
+
+
+
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+820c6bf9-43a1-4b80-a616-2f05e81f58ba
+
+mps.yml
+file
+
+
+
+
+2010-03-05T18:07:50.000000Z
+3b50196cd9ec5270da66a718ef6ef633
+2007-03-10T15:29:31.761112Z
+2
+chebuctonian
+
